@@ -43,3 +43,19 @@ Inicializar: `yarn create react-app app`
 
 - `useState`: salva o estado das variáveis
 - `useEffect`: alterações que podem ser feitas na página sem fazer redirecionamento
+
+## React Native
+
+Pode-se utilizar o `expo` para facilitar a instalação do projeto
+
+Instalar: `npm install -g expo-cli`
+
+Inicializar: `expo init mobile`
+
+### Bibliotecas
+
+- `yarn add react-navigation`
+  - Biblioteca de rotas
+
+
+### Informações
